@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Alex, and I am a highly motivated Computer Science graduand student with a passion for Data Science and Machine Learning. I approach problem-solving with persistence and a methodical mindset, continuously seeking to expand my knowledge.
+
+Currently, I am working on my thesis project which involves the development of a Domestic Electricity Forecasting System using Machine Learning techniques. I am excited about the opportunity to apply my skills and knowledge to create a practical solution that can have a positive impact.
 
 <!--
 **Alexisjr2001/Alexisjr2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexisjr2001)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=Alexisjr2001&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Alexisjr2001/github-readme-stats)
 -->
