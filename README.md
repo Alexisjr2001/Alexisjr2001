@@ -1,5 +1,5 @@
-## Hi there 👋
-- ⚡ My name is Alex, and I am a highly motivated **Computer Science graduand student** at the **Aristotle University Of Thessaloniki** in Greece, with a passion for **Data Science and Machine Learning**. I approach problem-solving with **persistence and a methodical mindset**, continuously seeking to **expand my knowledge**.
+## Hi there 👋 I'm Alexandros Tsingos (Αλέξανδρος Τσίγγος)
+- ⚡ I am a highly motivated **Computer Science graduand student** at the **Aristotle University Of Thessaloniki** in Greece, with a passion for **Data Science and Machine Learning**. I approach problem-solving with **persistence and a methodical mindset**, continuously seeking to **expand my knowledge**.
 
 - 🔭 I’m currently working on my **thesis project** which involves the development of a **Domestic Electricity Forecasting System using Machine Learning techniques**. I am excited about the opportunity to apply my skills and knowledge to create a practical solution that can have a positive impact.
 
