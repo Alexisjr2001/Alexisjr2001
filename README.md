@@ -2,7 +2,7 @@
 
 🎓 **MSc in Data and Web Science (Final Semester)** – Aristotle University of Thessaloniki
 💼 **Working on family company as a Driver** – Taxi Van 9 Thessaloniki
-🤖 **Experienced in:** Machine Learning, Explainable AI (XAI), LLM Applications, and RAG
+🤖 **Experienced in:** Machine Learning, Statistical Analysis, and RAG applications.
 📍 **Based in:** Thessaloniki, Greece
 📬 [atsiggos@gmail.com](mailto:atsiggos@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alexandros-tsingos/) | [GitHub](https://github.com/Alexisjr2001)
 
@@ -18,7 +18,7 @@ I am a Computer Science graduate currently in my final semester of the Data and 
 
 ### ✨ Currently Focused On
 
-* 🤖 Starting my master's thesis on Explainable AI (XAI).
+* 🤖 Starting my master's thesis.
 * 🚗 Driving the van, managing client communications, and coordinating transfers at Taxi Van 9 Thessaloniki.
 
 <br>
